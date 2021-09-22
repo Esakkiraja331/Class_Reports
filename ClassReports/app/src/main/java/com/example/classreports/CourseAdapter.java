@@ -46,7 +46,7 @@ public class CourseAdapter extends RecyclerView.Adapter<CourseAdapter.Viewholder
 
         public Viewholder(@NonNull View itemView) {
             super(itemView);
-            courseNameTv=itemView.findViewById(R.id.textView1);
+            courseNameTv=itemView.findViewById(R.id.TV_Ten_A);
         }
     }
 }

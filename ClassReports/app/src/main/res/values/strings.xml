@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Class Reports</string>
     <string name ="CourseName">10 A</string>
+    <string name="TestAssigned">Test Assigned:</string>
+    <string name="Ten">10</string>
+    <string name="Thirty">30</string>
+    <string name="TestTaken">Test Taken:</string>
+    <string name="TwoThirty">230</string>
+    <string name="RTT">Recent Tests Taken</string>
+    <string name="Subjects">Science (10),Maths (7),English (12)</string>
 </resources>
